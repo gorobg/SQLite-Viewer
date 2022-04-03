@@ -1,0 +1,6 @@
+# IntelliJ
+Topics
+*.iml
+*.txt
+*.db
+.idea/
